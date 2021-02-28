@@ -44,6 +44,10 @@ Anmerkungen:
 - Kein Einflug in's Vintschgau.
 - Triebener Tauern 1274 m, Brenner 1370 m -- niedriger geht's nimmer.
 
+## Stagor - Karte
+
+![Stagor - Karte](stagor.png)
+
 ## Spitzegel
 
 140 km × 3 = 420 km = a + b → 2 × (a + b) = **840 km**
@@ -59,18 +63,26 @@ Anmerkungen:
 - Große Strecken (> 700 km) ohne Vintschgau.
 - Richtig, richtig groß (wenn man will).
 
+## Spitzegel - Karte
+
+![Spitzegel - Karte](spitzegel.png)
+
 ## Rote Wand
 
 160 km × 3 ~ 500 km = a + b → 2 × (a + b) ~ **1000 km**
 
 Zum Beispiel:
 
-- Unterwössen -- Dürre Wand -- Rote Wand -- Piz Nuna-Unterwössen: 955 km
+- Unterwössen -- Dürre Wand -- Rote Wand -- Piz Nuna -- Unterwössen: 955 km
 
 Anmerkungen:
 
 - Zeltweg nur noch schwer zu umgehen.
 - Nockberge, Turracherhöhe, das volle Programm.
+
+## Rote Wand - Karte
+
+![Rote Wand - Karte](rotewand.png)
 
 ## Ferlach
 
@@ -86,6 +98,10 @@ Anmerkungen:
 - Basis 2600 m am Speikkogel ist genug.
 - Luftraum Zeltweg, aber nette Controller.
 - Karawanken Nord- oder Südseite?
+
+## Ferlach - Karte
+
+![Ferlach - Karte](ferlach.png)
 
 # Wermutstropfen
 
@@ -111,5 +127,13 @@ Anmerkungen:
   Unterwössen -- Reutte -- Spitzegel -- Gößeck -- Unterwössen: 690 km
 - Es gibt wunderschöne Dreiecke im Osten!\
   Unterwössen -- Mariazell -- Turracherhöhe -- Unterwössen: 501 km
+
+## Westabflug - Karte
+
+![Westabflug - Karte](westabflug.png)
+
+## Ostdreieck - Karte
+
+![Ostdreieck - Karte](ostdreieck.png)
 
 # Diskussion

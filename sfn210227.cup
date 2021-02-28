@@ -168,5 +168,11 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Rebro",,SI,4623.600N,01411.683E,1117.0m,10,,,,,,,
 "Roblek",,SI,4624.000N,01412.900E,1021.0m,10,,,,,,,
 -----Related Tasks-----
-,"???","Unterwoessen","Stagor","???"
-Options,MinDis=False
+"AFZ-Streckenflug-210227 Stagor 477km","???","Unterwoessen","Niederöblarn","Stagor","Sterzing Mil Gld","Unterwoessen","???"
+"AFZ-Streckenflug-210227 Stagor 539km","???","Unterwoessen","Trieben","Stagor","Sterzing Mil Gld","Unterwoessen","???"
+"AFZ-Streckenflug-210227 Spitzegel 610km","???","Unterwoessen","Timmersdorf","Spitzegel","Sterzing Mil Gld","Unterwoessen","???"
+"AFZ-Streckenflug-210227 Spitzegel 788km","???","Unterwoessen","Turnau","Spitzegel","Koepflplatte","Unterwoessen","???"
+"AFZ-Streckenflug-210227 Rote Wand 955km","???","Unterwoessen","Dürre Wand","Rote Wand","Nuna Piz","Unterwoessen","???"
+"AFZ-Streckenflug-210227 Ferlach 995km","???","Unterwoessen","Kloben Rax","Ferlach","Samedan Gld","Unterwoessen","???"
+"AFZ-Streckenflug-210227 Westabflug 690km","???","Unterwoessen","Reutte","Spitzegel","Reiting SO","Unterwoessen","???"
+"AFZ-Streckenflug-210227 Ostdreieck 501km","???","Unterwoessen","Mariazell","Turracherhoehe","Unterwoessen","???"
