@@ -2,8 +2,6 @@
 title: Vierecke ab Unterwössen
 author: Mathias Münch
 date: 2021-02-27
-theme: Szeged
-colortheme: seahorse
 ...
 
 # Das DMSt-Viereck
@@ -46,7 +44,7 @@ Anmerkungen:
 
 ## Stagor - Karte
 
-![Stagor - Karte](stagor.png)
+![Stagor - Karte](stagor.png){ width=80% }
 
 ## Spitzegel
 
@@ -65,7 +63,7 @@ Anmerkungen:
 
 ## Spitzegel - Karte
 
-![Spitzegel - Karte](spitzegel.png)
+![Spitzegel - Karte](spitzegel.png){ width=80% }
 
 ## Rote Wand
 
@@ -82,7 +80,7 @@ Anmerkungen:
 
 ## Rote Wand - Karte
 
-![Rote Wand - Karte](rotewand.png)
+![Rote Wand - Karte](rotewand.png){ width=80% }
 
 ## Ferlach
 
@@ -101,7 +99,7 @@ Anmerkungen:
 
 ## Ferlach - Karte
 
-![Ferlach - Karte](ferlach.png)
+![Ferlach - Karte](ferlach.png){ width=80% }
 
 # Wermutstropfen
 
@@ -130,10 +128,10 @@ Anmerkungen:
 
 ## Westabflug - Karte
 
-![Westabflug - Karte](westabflug.png)
+![Westabflug - Karte](westabflug.png){ width=80% }
 
 ## Ostdreieck - Karte
 
-![Ostdreieck - Karte](ostdreieck.png)
+![Ostdreieck - Karte](ostdreieck.png){ width=80% }
 
 # Diskussion
