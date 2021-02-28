@@ -114,7 +114,7 @@ Anmerkungen:
 - Für OLC nicht optimal.
 - Vierecke werden nur angemeldet gewertet.
 
-> Ist der Flug erst ruiniert, fliegt sich's gänzlich ungeniert
+> Ist der Flug erst ruiniert, fliegt sich's gänzlich ungeniert.
 
 ## Die lieben Gewohnheiten
 
